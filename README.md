@@ -1,0 +1,2 @@
+# aamash
+Fast student
